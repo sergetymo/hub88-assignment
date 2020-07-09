@@ -1,0 +1,22 @@
+{
+  "name": "@hub88-assignment/shared-components",
+  "version": "0.1.0",
+  "main": "build/index.js",
+  "typings": "build/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc -w"
+  },
+  "private": true,
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "~3.7.2"
+  }
+}
