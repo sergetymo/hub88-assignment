@@ -1,0 +1,15 @@
+{
+  "name": "mocked-api",
+  "version": "0.1.0",
+  "description": "Mocked GraphQL API server for hub88 assignment",
+  "author": "Serge Tymoshenko <serge@tymo.name>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.15.1",
+    "graphql": "^15.3.0"
+  }
+}
