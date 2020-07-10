@@ -8,7 +8,8 @@
   "license": "MIT",
   "scripts": {
     "lerna": "lerna",
-    "setup": "lerna bootstrap"
+    "setup": "lerna bootstrap",
+    "start": "lerna run start --parallel"
   },
   "private": true,
   "devDependencies": {
