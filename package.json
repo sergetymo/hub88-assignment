@@ -1,0 +1,17 @@
+{
+  "name": "hub88-assignment",
+  "version": "1.0.0",
+  "description": "Hub88 test assignment",
+  "main": "index.js",
+  "repository": "git@github.com:sergetymo/hub88-assignment.git",
+  "author": "Serge Tymoshenko <serge@tymo.name>",
+  "license": "MIT",
+  "scripts": {
+    "lerna": "lerna",
+    "setup": "lerna bootstrap"
+  },
+  "private": false,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
